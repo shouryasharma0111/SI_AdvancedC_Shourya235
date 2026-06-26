@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 struct Product {
     int id;
     int stock;
